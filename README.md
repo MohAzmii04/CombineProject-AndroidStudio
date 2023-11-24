@@ -239,6 +239,8 @@ Maka langsung saja kita buka `activity_main.xml`, dan buat code seperti berikut 
 ```
 - Maka tampilannya akan seperti ini :
   
+![1700807451569 1](https://github.com/MohAzmii04/CombineProject-AndroidStudio/assets/115864496/c517731c-7388-495b-957f-0f805dbc40cb)
+
 
 - Setelah itu kita buka `MainActivity.java` untuk menambahkan code intent untuk masing-masing tombol :
 ```
@@ -1096,7 +1098,12 @@ findViewById(R.id.btnSetAlarm).setOnClickListener(new View.OnClickListener() {
 - Berikut adalah hasil running dari aplikasi yang telah saya buat :
 
 
+https://github.com/MohAzmii04/CombineProject-AndroidStudio/assets/115864496/c6df0682-8e9b-451f-94a5-59ec884fb6ab
+
 
 
 
 # Sekian, Terima kasih
+
+
+
